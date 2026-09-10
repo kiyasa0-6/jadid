@@ -1,12 +1,12 @@
 {
- "78addc3cb5ef17d6588aa33d5d1fc240": {
-  "deployment_id": "760a22bf7493ce2a5be290ee5fbdf4d4",
+ "750fede714196cdd7c465c29909613d1": {
+  "deployment_id": "89a22fb1a4cdb39b423ab01faae0ee2b",
   "core_version": "latest",
-  "api_token": "zAGaMbCz-DgvF-NLrouWugME8QGCEAiR",
+  "api_token": "8t--as9usxVuCjwJ0yZMsi0WZWUt97Ky",
   "public_host": "",
   "cpu_limit": 0.5,
   "memory_mb": 256,
   "max_processes": 128,
-  "port": 19000
+  "port": 19005
  }
 }
